@@ -18,7 +18,7 @@ function Chat() {
     >
       {/* Header */}
       <h2 className="p-4 font-bold text-lg md:text-xl text-center bg-white/20 backdrop-blur-lg text-white flex justify-center items-center gap-2 shadow-sm">
-        React + Gemini Chatbot <LuBot size={26} className="text-yellow-300" />
+        AI Chatbot <LuBot size={26} className="text-yellow-300" />
       </h2>
 
       {/* Messages */}
